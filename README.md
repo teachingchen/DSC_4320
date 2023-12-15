@@ -7,7 +7,8 @@ Location: Cashion Academic Center, C314
 ```
 
 ## Course Website:
-[https://teachingchen.github.io/DSC_2350/](https://teachingchen.github.io/DSC_2350/)
+[https://teachingchen.github.io/DSC_4320/](https://teachingchen.github.io/DSC_4320/)
+
 
 ## Textbook and Learning Materials:
 There is no required textbook, but the following books may serve as useful references for different parts of the course.
