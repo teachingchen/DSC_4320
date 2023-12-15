@@ -12,25 +12,22 @@ Location: Cashion Academic Center, C314
 
 ## Textbook and Learning Materials:
 There is no required textbook, but the following books may serve as useful references for different parts of the course.
-* Kenneth H. Rosen, “Discrete Mathematics and its Applications, 7th edition”, ISBN-13: 978-0073383095, [pdf](https://faculty.ksu.edu.sa/sites/default/files/rosen_discrete_mathematics_and_its_applications_7th_edition.pdf)
-* Margaret M. Fleck, “CSI173: Discrete Structures”, UIUC, [pdf](https://courses.engr.illinois.edu/cs173/fa2013/B-lecture/Lectures/)
-* Vladlen Koltun, “Discrete Structures (Lecture Notes)”, Stanford University, [pdf](https://web.stanford.edu/class/cs103x/cs103x-notes.pdf)
+* Daniel Nelson. “Data Visualization in Python”, ISBN-13: 979-8582486367, [link](https://www.amazon.com/Data-Visualization-Python-Daniel-Nelson/dp/B08TZ9LWWX)
+* Claus Wilke. "Fundamentals of Data Visualization", ISBN-13: 978-1492031086, [link](https://www.amazon.com/Fundamentals-Data-Visualization-Informative-Compelling/dp/1492031089/ref=asc_df_1492031089/?tag=hyprod-20&linkCode=df0&hvadid=343974906210&hvpos=&hvnetw=g&hvrand=561473052996401400&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9027497&hvtargid=pla-608643852713&psc=1&mcid=10e0405aa6f13596a403d0f54f578323&tag=&ref=&adgrpid=69543897272&hvpone=&hvptwo=&hvadid=343974906210&hvpos=&hvnetw=g&hvrand=561473052996401400&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9027497&hvtargid=pla-608643852713&gclid=Cj0KCQiA7OqrBhD9ARIsAK3UXh1aU3iz67Eoi37GSjgJTavSRYni4rkukPtHG4MZbh7yNt3_UzMeA3UaAtd4EALw_wcB)
+* Christopher M. Bishop. "Pattern Recognition and Machine Learning", ISBN-13: 978-0387310732, [pdf](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
+
 
 ## Instructor:
 Dr. Chen Zhao\
 Assistant Professor\
 Department of Computer Science, Baylor University\
 Office: Hankamer 330.39
-* Email: chen_zhao@baylor.edu (Important: When emailing, please add **[DSC 2350]** at the beginning of the subject line)
-* Office Hours: Mondays and Wednesdays 2:00 pm - 3:30 pm (Hankamer 330.39 OR via Microsoft Teams, **By appointment**)
+* Email: chen_zhao@baylor.edu (Important: When emailing, please add **[DSC 4320]** at the beginning of the subject line)
+* Office Hours: Mondays and Wednesdays 4:00 pm - 5:30 pm (Hankamer 330.39 OR via Microsoft Teams, **By appointment**)
 * Homepage: [https://charliezhaoyinpeng.github.io/homepage](https://charliezhaoyinpeng.github.io/homepage)
 
 ## Teaching Assistant:
-Pratik Siwakoti\
-Graduate Assistant
-* Email: pratik_siwakoti1@baylor.edu
-* Office Hours: Mondays and Tuesdays 12:00 pm - 1:30 pm (via Microsoft Teams, **By appointment**)
-* Duties: Gradings (Homeworks, Quizzes, Exams)
+TBA
 
 ## Course Description:
 An introduction to the foundations of discrete structures as they apply to data science, focusing on providing a solid theoretical foundation for further work. Topics include sets, ordered structures, graphs and trees, functions, proof techniques, number systems, logic, Boolean algebra, etc.
