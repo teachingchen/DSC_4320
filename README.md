@@ -30,15 +30,14 @@ Office: Hankamer 330.39
 TBA
 
 ## Course Description:
-An introduction to the foundations of discrete structures as they apply to data science, focusing on providing a solid theoretical foundation for further work. Topics include sets, ordered structures, graphs and trees, functions, proof techniques, number systems, logic, Boolean algebra, etc.
+Investigation of the various techniques for creating effective visualizations, incorporating principles of graphic design, cognitive and perceptual psychology, data analysis, and human factors evaluations. Using the growing toolbox for visual description and presentation, students apply visualization techniques and build novel visualization tools for solving complex problems.
 
 ## Prerequisites:
-C or better in CSI 1402 (Introduction to Programming II) or concurrent enrollment; MTH 1321 (Calculus I) or concurrent enrollment.
+CSI 2300, Introduction to Data Science.
 
 ## Requirements and Grading: 
-This course is A-E graded, and the grades are determined based on graded assignments:
+This course is A-F graded, and the grades are determined based on graded assignments:
 * Exams: 40%
-  - One exam will be given each month.
 * Homework Assignments: 40%
   - For each homework, you can submit your answers up to 2 times.
   - Answer at least 50% of questions correctly for the 1st submission (Otherwise, no 2nd submission is allowed).
@@ -50,7 +49,7 @@ This course is A-E graded, and the grades are determined based on graded assignm
   - Randomly given in class.
 * Attendance: 5%
   - Class attendance is required. Refer to [here](https://rb.gy/6alrf).
-* Bonus: 10%
+* Bonus: 5%
   - Extra on top of the final grade.
 
 Your final grade will be based on a scale of 100 points:
@@ -68,18 +67,15 @@ No makeup exams and quizzes will be given. Homeworks are due by midnight of the 
 | Lectures  | Topics                                     	|
 |---------	|--------------------------------------------	|
 | 1       	| Course Introduction                        	|
-| 2       	| Sets                                        |       
-| 3       	| Functions                     	            |  
-| 4       	| Counting Theory                             |    
-| 5       	| Discrete Probability  	                    |                      
-| 6       	| Mathematical Logic                          |                  	  
-| 7       	| Review of Python                            |                       
-| 8       	| Searching and Algorithm Analysis            |                  
-| 9       	| Sorting                        	            |                    
-| 10       	| Lists                                       |                         
-| 11       	| Stacks and Queues              	            |                     
-| 12       	| Trees                                       |               	   
-| 13       	| Graphs                                      |                    	 
+| 2       	| Review of Python                            |       
+| 3       	| Data Wrangling with Pandas     	            |  
+| 4       	| Introduction to Machine Learning Models     |    
+| 5       	| Introduction to Optimization and Evaluation |                      
+| 6       	| Visualization with Matplotlib and Seaborn   |                  	  
+| 7       	| Dynamic Visualization                       |                       
+| 8       	| Machine Learning Visualization              |                  
+| 9       	| Other Visualization Tools      	            |                    
+                   	 
 
       
 ## Some Policies and Services:
