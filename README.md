@@ -27,7 +27,12 @@ Office: Hankamer 330.39
 * Homepage: [https://charliezhaoyinpeng.github.io/homepage](https://charliezhaoyinpeng.github.io/homepage)
 
 ## Teaching Assistant:
-TBA
+Yitong Chen\
+Ph.D. Student\
+Department of Computer Science, Baylor University\
+* Email: yitong_chen1@baylor.edu (Important: When emailing, please add **[DSC 4320]** at the beginning of the subject line)
+* Office Hours: **TBA**
+* Duties: Gradings (Homeworks, Quizzes, Exams)
 
 ## Course Description:
 Investigation of the various techniques for creating effective visualizations, incorporating principles of graphic design, cognitive and perceptual psychology, data analysis, and human factors evaluations. Using the growing toolbox for visual description and presentation, students apply visualization techniques and build novel visualization tools for solving complex problems.
