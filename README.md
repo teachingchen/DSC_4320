@@ -29,7 +29,7 @@ Office: Hankamer 330.39
 ## Teaching Assistant:
 Yitong Chen\
 Ph.D. Student\
-Department of Computer Science, Baylor University\
+Department of Computer Science, Baylor University
 * Email: yitong_chen1@baylor.edu (Important: When emailing, please add **[DSC 4320]** at the beginning of the subject line)
 * Office Hours: **TBA**
 * Duties: Gradings (Homeworks, Quizzes, Exams)
