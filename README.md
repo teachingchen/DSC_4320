@@ -41,8 +41,9 @@ There is no required textbook, but the following books may serve as useful refer
 
 ## Requirements and Grading: 
 This course is A-F graded, and the grades are determined based on graded assignments:
-* Exams: 40%
-* Homework Assignments: 40%
+* Exams: 25%
+* Final Project: 25%
+* Homework Assignments: 25%
   - For each homework, you can submit your answers up to 2 times.
   - Answer at least 50% of questions correctly for the 1st submission (Otherwise, no 2nd submission is allowed).
   - Students have a 2nd chance to make corrections in a week.
@@ -51,7 +52,7 @@ This course is A-F graded, and the grades are determined based on graded assignm
   - Final grades are subject to the 2nd submission.
 * Quizzes: 15%
   - Randomly given in class.
-* Attendance: 5%
+* Attendance: 10%
   - Class attendance is required. Refer to [here](https://rb.gy/6alrf).
 * Bonus: 5%
   - Extra on top of the final grade.
@@ -75,14 +76,15 @@ No makeup exams and quizzes will be given.
 | Lectures  | Topics                                     	|
 |---------	|--------------------------------------------	|
 | 1       	| Course Introduction                        	|
-| 2       	| Review of Python                            |       
-| 3       	| Data Wrangling with Pandas     	            |  
-| 4       	| Introduction to Machine Learning Models     |    
-| 5       	| Introduction to Optimization and Evaluation |                      
-| 6       	| Visualization with Matplotlib and Seaborn   |                  	  
-| 7       	| Dynamic Visualization                       |                       
+| 2       	| Review of Python                            |
+| 3       	| Data Types and Basic Visualization          | 
+| 4       	| Visualization with Matplotlib and Seaborn   | 
+| 5       	| Multivariate and High-Dimensional Data Visualization   | 
+| 6       	| Data Wrangling with Pandas     	            |  
+| 7       	| Introduction to Machine Learning Models     |    
 | 8       	| Machine Learning Visualization              |                  
-| 9       	| Other Visualization Tools      	            |                    
+| 9       	| Dynamic Visualization                       |                       
+| 10       	| Other Visualization Tools      	            |                    
                    	 
 
       
