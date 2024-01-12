@@ -66,7 +66,7 @@ Your final grade will be based on a scale of 100 points:
 Homeworks are due by midnight of the due date and are submitted on Canvas. Assignments are graded on a scale of 0 – 100, with a 10 points deduction per day late. 
 * 1 day late: 10 points deduction
 * 2 days late: 20 points deduction
-* >= 3 days days late: 0 points
+* 3 or more days late: 0 points awarded
 No makeup exams and quizzes will be given. 
 
 ## Tentative Course Outline:
