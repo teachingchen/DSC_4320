@@ -9,14 +9,6 @@ Location: Cashion Academic Center, C314
 ## Course Website:
 [https://teachingchen.github.io/DSC_4320/](https://teachingchen.github.io/DSC_4320/)
 
-
-## Textbook and Learning Materials:
-There is no required textbook, but the following books may serve as useful references for different parts of the course.
-* Daniel Nelson. “Data Visualization in Python”, ISBN-13: 979-8582486367, [link](https://www.amazon.com/Data-Visualization-Python-Daniel-Nelson/dp/B08TZ9LWWX)
-* Claus Wilke. "Fundamentals of Data Visualization", ISBN-13: 978-1492031086, [link](https://www.amazon.com/Fundamentals-Data-Visualization-Informative-Compelling/dp/1492031089/ref=asc_df_1492031089/?tag=hyprod-20&linkCode=df0&hvadid=343974906210&hvpos=&hvnetw=g&hvrand=561473052996401400&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9027497&hvtargid=pla-608643852713&psc=1&mcid=10e0405aa6f13596a403d0f54f578323&tag=&ref=&adgrpid=69543897272&hvpone=&hvptwo=&hvadid=343974906210&hvpos=&hvnetw=g&hvrand=561473052996401400&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9027497&hvtargid=pla-608643852713&gclid=Cj0KCQiA7OqrBhD9ARIsAK3UXh1aU3iz67Eoi37GSjgJTavSRYni4rkukPtHG4MZbh7yNt3_UzMeA3UaAtd4EALw_wcB)
-* Christopher M. Bishop. "Pattern Recognition and Machine Learning", ISBN-13: 978-0387310732, [pdf](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
-
-
 ## Instructor:
 Dr. Chen Zhao\
 Assistant Professor\
@@ -35,10 +27,17 @@ Department of Computer Science, Baylor University
 * Duties: Gradings (Homeworks, Quizzes, Exams)
 
 ## Course Description:
-Investigation of the various techniques for creating effective visualizations, incorporating principles of graphic design, cognitive and perceptual psychology, data analysis, and human factors evaluations. Using the growing toolbox for visual description and presentation, students apply visualization techniques and build novel visualization tools for solving complex problems.
+As the world continues to be more connected through both physical and virtual means, the amount of information that we are bombarded with as people has increased significantly. This course will cover the science and art behind creating readable graphics called Data Visualization. We will explore the design, techniques, and algorithms used to create effective visualizations based on principles from graphic design, visual art, perceptual psychology, and cognitive science. Students will also learn to evaluate the effectiveness of visualization designs and think critically about each design decision, such as visual encoding.
 
 ## Prerequisites:
 CSI 2300, Introduction to Data Science.
+
+## Textbook and Learning Materials:
+There is no required textbook, but the following books may serve as useful references for different parts of the course.
+* Daniel Nelson. "Data Visualization in Python", ISBN-13: 979-8582486367, [link](https://www.amazon.com/Data-Visualization-Python-Daniel-Nelson/dp/B08TZ9LWWX)
+* Claus Wilke. "Fundamentals of Data Visualization", ISBN-13: 978-1492031086, [link](https://www.amazon.com/Fundamentals-Data-Visualization-Informative-Compelling/dp/1492031089/ref=asc_df_1492031089/?tag=hyprod-20&linkCode=df0&hvadid=343974906210&hvpos=&hvnetw=g&hvrand=561473052996401400&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9027497&hvtargid=pla-608643852713&psc=1&mcid=10e0405aa6f13596a403d0f54f578323&tag=&ref=&adgrpid=69543897272&hvpone=&hvptwo=&hvadid=343974906210&hvpos=&hvnetw=g&hvrand=561473052996401400&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9027497&hvtargid=pla-608643852713&gclid=Cj0KCQiA7OqrBhD9ARIsAK3UXh1aU3iz67Eoi37GSjgJTavSRYni4rkukPtHG4MZbh7yNt3_UzMeA3UaAtd4EALw_wcB)
+* Tamara Munzner. "Visualization analysis and design (AK Peters visualization series)", ISBN-13: 978-1466508910, [link](https://www.amazon.com/Visualization-Analysis-Design-AK-Peters/dp/1466508914)
+* Colin Ware. "Visual thinking for design (Morgan Kaufmann series in interactive technologies)", ISBN-13: 978-0123708960, [link](https://www.amazon.com/Visual-Thinking-Kaufmann-Interactive-Technologies/dp/0123708966)
 
 ## Requirements and Grading: 
 This course is A-F graded, and the grades are determined based on graded assignments:
@@ -64,8 +63,11 @@ Your final grade will be based on a scale of 100 points:
 | (100-94] | (94-90] | (90-87] | (87-83] | (83-80] | (80-77] | (77-73] | (73-70] | (70-67] | (67-63] | (62-60] | (60-0] |
 
 ## Missed Exams, Homeworks, and Quizzes:
-No makeup exams and quizzes will be given. Homeworks are due by midnight of the due date and are submitted on Canvas. Assignments are graded on a scale of 0 – 100, with a 10 points deduction per day late. Homeworks are not accepted and graded zero more than three days late.
-
+Homeworks are due by midnight of the due date and are submitted on Canvas. Assignments are graded on a scale of 0 – 100, with a 10 points deduction per day late. 
+* 1 day late: 10 points deduction
+* 2 days late: 20 points deduction
+* >= 3 days days late: 0 points
+No makeup exams and quizzes will be given. 
 
 ## Tentative Course Outline:
 
