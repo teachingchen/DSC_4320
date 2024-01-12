@@ -67,6 +67,7 @@ Homeworks are due by midnight of the due date and are submitted on Canvas. Assig
 * 1 day late: 10 points deduction
 * 2 days late: 20 points deduction
 * 3 or more days late: 0 points awarded
+
 No makeup exams and quizzes will be given. 
 
 ## Tentative Course Outline:
