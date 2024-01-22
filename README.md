@@ -23,7 +23,7 @@ Yitong Chen\
 Ph.D. Student\
 Department of Computer Science, Baylor University
 * Email: yitong_chen1@baylor.edu (Important: When emailing, please add **[DSC 4320]** at the beginning of the subject line)
-* Office Hours: Tuesdays and Thursdays 1:00 pm - 2:30 pm (Cashion 417 OR via Microsoft Teams)
+* Office Hours: Tuesdays and Thursdays 2:30 pm - 4:00 pm (Cashion 417 OR via Microsoft Teams)
 * Duties: Gradings (Homeworks, Quizzes, Exams)
 
 ## Course Description:
