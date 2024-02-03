@@ -74,16 +74,16 @@ No makeup exams and quizzes will be given.
 
 | Lectures  | Topics                                     	|
 |---------	|--------------------------------------------	|
-| 1       	| Course Introduction                        	|
-| 2       	| Review of Python                            |
-| 3       	| Data Types and Basic Visualization          | 
-| 4       	| Visualization with Matplotlib and Seaborn   | 
-| 5       	| Multivariate and High-Dimensional Data Visualization   | 
-| 6       	| Data Wrangling with Pandas     	            |  
-| 7       	| Introduction to Machine Learning Models     |    
-| 8       	| Machine Learning Visualization              |                  
-| 9       	| Dynamic Visualization                       |                       
-| 10       	| Other Visualization Tools      	            |                    
+| 0       	| Course Introduction                        	|
+| 1       	| Review of Python                            |
+| 2       	| Data Types and Basic Visualization          | 
+| 3       	| Visualization with Matplotlib and Seaborn   | 
+| 4       	| Multivariate and High-Dimensional Data Visualization   | 
+| 5       	| Data Wrangling with Pandas     	            |  
+| 6       	| Introduction to Machine Learning Models     |    
+| 7       	| Machine Learning Visualization              |                  
+| 8       	| Dynamic Visualization                       |                       
+| 9       	| Other Visualization Tools      	            |                    
                    	 
 
       
